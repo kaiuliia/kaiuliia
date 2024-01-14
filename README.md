@@ -1,5 +1,6 @@
 ### Hi, welcome to my github 👋
-### I'm Yulia, and I’m a junior software engineer
+
+I'm Yulia, and I’m a junior software engineer
 
 What have I worked with?
 
