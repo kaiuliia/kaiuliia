@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi, welcome to my github 👋
+### I'm Yulia, and I’m a junior software engineer
 
-<!--
-**kaiuliia/kaiuliia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What have I worked with?
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies and languages I have experience with:
+Languages: JavaScript (ES6+), TypeScript, SQL
+Frontend: React, Next.js, React-Hook-Form, Redux, Vue js, CSS, HTML, Tailwind, MUI
+Backend: REST APIs, Express, PostgreSQL, Node js.
+Tests: Jest
+Other: GitHub, JSON, Figma, Adobe suite, WebStorm, VS Code.
+Soft skills: Communication, Problem Solving, Critical Thinking, Teamwork, Empathy, Intercultural Awareness, Remote Work Management. 
