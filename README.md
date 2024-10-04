@@ -6,7 +6,7 @@ What have I worked with?
 
 <p>Technologies and languages I have experience with:<br>
 Languages: JavaScript (ES6+), TypeScript, SQL<br>
-Frontend: React, Next.js, React-Hook-Form, Redux, Vue js, CSS, HTML, Tailwind, MUI <br>
+Frontend: React, Next.js, React-Hook-Form, Redux, CSS, HTML, Tailwind, MUI <br>
 Backend: REST APIs, Express, PostgreSQL, Node js.<br>
 Tests: Jest<br>
 Other: GitHub, JSON, Figma, Adobe suite, WebStorm, VS Code.<br>
